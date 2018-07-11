@@ -1,4 +1,25 @@
 # Flask
+### Configure Environment
+```
+   1.pip install virtualenv
+   2.sudo apt-get install virtualenv
+Create Folder :
+   3.mkdir newproj
+   4.cd newproj
+   5.virtualenv venv
+   6. source venv/bin/activate or . venv/bin/activate
+```
+
+
+
+
+
+
+
+
+
+
+
 ```.py
 #Importing flask module in the project is mandatory
 from flask import Flask
